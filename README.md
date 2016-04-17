@@ -1,0 +1,1 @@
+See the blog post on WooThemes.com to learn more about how this package works.
